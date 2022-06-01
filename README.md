@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web-development,python
 - 💞️ I’m looking to collaborate on web-development
 - 📫 How to reach me 
--     email->mbeg937@gmail.com
+-     mbeg937@gmail.com
 
 <!---
 Ali-Beg/Ali-Beg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
